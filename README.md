@@ -104,7 +104,7 @@ These artifacts are provided \*\*for informational awareness only\*\*.
 
 Created and maintained by \*\*Pin Floyd\*\*.  
 
-Contact via GitHub if context is required.
+Context clarification may occur via GitHub.
 
 Contact (asynchronous only):
 governance-channel@proton.me
