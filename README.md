@@ -106,5 +106,13 @@ Created and maintained by \*\*Pin Floyd\*\*.
 
 Contact via GitHub if context is required.
 
+Contact (asynchronous only):
+governance-channel@proton.me
+
+To request a snapshot, include:
+(1) Target
+(2) Purpose
+(3) Public context link(s)
+
 
 
